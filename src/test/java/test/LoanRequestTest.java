@@ -1,7 +1,7 @@
 package test;
 
-import com.sun.org.glassfish.gmbal.Description;
 import dataProviders.LoanRequestDataProvider;
+import io.qameta.allure.Description;
 import io.qameta.allure.Story;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
